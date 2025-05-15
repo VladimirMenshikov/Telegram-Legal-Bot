@@ -69,5 +69,5 @@
 ## 📫 Контакты
 
 Разработчик: [@VM_AI](https://t.me/VM_AI)  
-Email: vl.menshikov@gmail.com  
+Email: p9852641487@gmail.com  
 Телефон: +7 985 264 1487
