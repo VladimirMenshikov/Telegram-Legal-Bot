@@ -41,7 +41,7 @@
 - Вопрос
 - Резюме диалога
 
-![Таблица Airtable](./airtable_summary.jpg)
+![Таблица Airtable](./dialog_step_1-1.jpg))
 
 ---
 
